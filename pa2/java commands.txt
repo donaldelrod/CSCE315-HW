@@ -1,0 +1,11 @@
+to compile grammer file:
+antlr4 pa2.g4
+
+to compile:
+javac -cp "antlr-4.7.1-complete.jar" *.java
+
+to run with grammer (main function)
+java -cp . main < commands.txt > output.txt
+
+to test grammer:
+grun pa2 createCMD -tree

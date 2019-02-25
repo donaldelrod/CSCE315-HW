@@ -1,0 +1,11 @@
+kind		name		age		
+VARCHAR(20)	VARCHAR(20)	INTEGER	
+
+0
+1
+kind		name		age		
+VARCHAR(20)	VARCHAR(20)	INTEGER	
+dog		sam		12		
+cat		smokey		18		
+duck		donald		21		
+
